@@ -91,6 +91,6 @@ Compare every plan inside Atashi.
 
 ## Who we are
 
-Atashi.com.au Pty. Ltd., Sydney, Australia. We build Atashi with our own agents on our own platform. Questions or problems: use the contact details on https://atashi.com.au.
+Atashi.com.au Pty. Ltd., Sydney, Australia. We build Atashi with our own agents on our own platform. Questions or problems: write to engineering@atashi.com.au, or use the contact details on https://atashi.com.au.
 
 Atashi is an independent product. It is not made by, endorsed by or partnered with Anthropic, OpenAI, Google or any other AI company whose assistant you may choose to use with it.
