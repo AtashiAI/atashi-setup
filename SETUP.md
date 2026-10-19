@@ -18,7 +18,7 @@ THE STEPS
 5. Install it.
    - Linux: the download is an AppImage. Make it executable (chmod +x on that one file), then start it. If it complains about FUSE, start it with the option --appimage-extract-and-run instead.
    - Windows: the installer is not yet code signed, so Windows will show a protected your PC warning. Tell me about the warning and let me decide whether to continue. Do not click through it for me.
-6. When the app opens, stop. Signing in, creating an account and everything after that is my job. Never ask me for a password, never type one for me, and never read or copy my sign in.
+6. When the app opens, stop. Signing in, creating an account and everything after that is my job. Never ask me for a password, never type one for me, and never read or copy my sign in. Before you stop, remind me of one thing: if the Google window stops on my first try, I should pick my account again.
 
 WHAT YOU MUST NEVER DO
 - Never run anything as administrator or with sudo unless I have said yes to that exact command.
