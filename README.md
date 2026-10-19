@@ -69,18 +69,6 @@ https://github.com/user-attachments/assets/573dd822-4701-4f2b-97f0-1111d71fdae8
 
 The Robotics team, which flies a simulated drone and works with robot software, needs Linux (we test on Ubuntu) with the Gazebo simulator and ROS 2 set up. On a brand new computer its robot tools do not start yet; that is the next thing we are fixing.
 
-## Plans
-
-Every plan gets the full team of six and the office. Prices are in Australian dollars, plus GST.
-
-| Plan | Per month | For |
-|---|---|---|
-| Pro | A$49 | a regular rhythm of conversations and focused projects |
-| ProMax | A$149 | more frequent use and more room to explore your projects |
-| UltraPro | A$299 | sustained use across a busy portfolio of work |
-
-Compare every plan inside Atashi.
-
 ## A few honest things before you install
 
 - **Get it from the right place.** The download page is always the source of truth for the current version and its checksum. This page never repeats a checksum, so nothing you read here can go out of date.
