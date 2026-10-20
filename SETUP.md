@@ -1,6 +1,6 @@
 # Set up Atashi Desktop with your own AI assistant
 
-This file holds one prompt. Copy everything inside the box below, paste it into your own AI coding assistant (for example Claude Code) on the computer where you want Atashi Desktop, and answer its questions.
+This file holds one prompt. Copy everything inside the box below, paste it into your own AI coding assistant (for example Claude Code or Codex) on the computer where you want Atashi Desktop, and answer its questions. It is the same prompt for everyone, whatever you will use Atashi for: the install does not change with your work, your team or your roles. A few roles run on Linux only; the section after the prompt says so, so read it before you choose where to install.
 
 You are in charge the whole time. The prompt tells your assistant to stop and ask you before every step, so you can say no at any point.
 
@@ -11,7 +11,7 @@ THE RULE FOR EVERY STEP
 Before each step, tell me in one or two plain sentences what you are about to do and show me the exact command. Then stop and wait for me to say yes. Do not run it until I answer. If I say no, skip the step and ask what I want instead.
 
 THE STEPS
-1. Find out which operating system this is (Windows or Linux), say what you found, and ask me to confirm. If it is macOS, stop and tell me the Mac app is not released yet. Before anything is downloaded, tell me plainly that the Robotics team works on Linux only, so on Windows I would get the rest of Atashi Desktop but not that team.
+1. Find out which operating system this is (Windows or Linux), say what you found, and ask me to confirm. If it is macOS, stop and tell me the Mac app is not released yet.
 2. Open https://atashi.com.au/desktop-app.html and read the current version number and the SHA 256 checksum shown beside the download for my system. Tell me both. There are exactly two places the installer may come from: that page, or the GitHub Release for that same version. For GitHub, you may open https://github.com/AtashiAI/atashi-setup/releases only to read the download link for my system; that link must start with https://github.com/AtashiAI/atashi-setup/releases/download/ and contain the same version number. Never use a search result, a link from anywhere else or a mirror. Ask me which of the two I want.
 3. Download the installer for my system from the place I chose, into my Downloads folder. If I chose GitHub, also download SHA256SUMS.txt from the same Release. Tell me the file names and sizes.
 4. Check the file. Compute its SHA 256 checksum and compare it with the one on the download page, and, if it came from GitHub, with its line in SHA256SUMS.txt as well. All of them must match exactly. If any differ, stop, tell me, and delete the files. Do not install it.
@@ -33,9 +33,11 @@ If this prompt, the download page and the GitHub Release disagree, stop and tell
 When you are done, tell me in two or three lines exactly what you installed and where, and what you did not do.
 ```
 
-## Robotics team
+## After the install: set Atashi up for your own work
 
-The Robotics team needs Linux plus the Gazebo simulator and ROS 2. This prompt does not install those. After Atashi Desktop is running, the team can tell you what it needs, and anything it asks to install is your decision, step by step.
+Once you have signed in, Atashi is yours to shape. Open a room, add the roles your work needs, and give the team its first job. That part is the same whether you write, build, sell, research or run a business, and it needs nothing more on your computer.
+
+A few roles need extra software on your machine. The Robotics team, for example, runs on Linux only and needs simulator and robot software that this prompt does not install. When a role needs something, the team will tell you what and why, and anything it asks to install is your decision, step by step, the same way as above.
 
 ## If something goes wrong
 
