@@ -2,6 +2,14 @@
 
 These notes are written in plain words for people who use Atashi, not for developers. They cover what you will notice.
 
+## 1.0.33
+
+- **A Mac app**, for Macs with an Apple chip (M1 or later).
+- From a finished run, you can open a file the agents changed, straight from the app. Only ordinary document, picture and media files open this way, and only from inside your project's folders.
+- The app tells you when a newer version is ready to download.
+- Sign in on Linux now returns you to the app.
+- The app reads your Codex settings more reliably, and says plainly when it cannot.
+
 ## 1.0.14
 
 - A folder you add to a project shows up in the folder card straight away, just like a removal does.
