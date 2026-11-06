@@ -52,7 +52,7 @@ Agent Red leads the room and keeps everyone on the ask. Blue, Green, Pink, Purpl
 
 **Any model.** Bring the Claude, ChatGPT or Gemini subscription you already pay for, or use Atashi's own metered plans. An agent keeps its role and its memory whichever model it runs on.
 
-**Tools.** Connect ClickUp, pick a tool server from the catalogue (GitHub, Linear, Stripe and more), or add your own tool server in Atashi Desktop. Slack, Gmail and Google Drive are coming soon. Some tools belong to a role: the Robotics team is built around a drone simulator and ROS 2.
+**Tools.** Connect ClickUp, pick a tool server from the catalogue (GitHub, Linear, Stripe and more), or add your own tool server in Atashi Desktop. Slack, Gmail and Google Drive are coming soon. Connecting tools needs a paid plan. Some tools belong to a role: the Robotics team is built around a drone simulator and ROS 2.
 
 ## See it work
 
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/573dd822-4701-4f2b-97f0-1111d71fdae8
 ## Get started in five minutes
 
 1. Open https://atashi.com.au and create your account. The Free plan needs no card, and Pro is free for your first seven days.
-2. For work on your own files, download Atashi Desktop for Windows, macOS (Macs with an Apple chip) or Linux from https://atashi.com.au/desktop-app.html. Check the SHA256 shown beside the download before you open it.
+2. For work on your own files, download Atashi Desktop for Windows, macOS (Macs with an Apple chip) or Linux from https://atashi.com.au/desktop-app.html. Check the SHA256 shown beside the download before you open it. Work mode in the desktop app comes with ProMax and UltraPro, or with Intern on your own AI; the Free and Pro plans do not include it.
 3. Already use Claude Code? Open [SETUP.md](SETUP.md), copy the prompt and paste it in. It walks you through the install and asks before each step.
 4. Open a room, add the roles you need, and give the team its first job.
 
