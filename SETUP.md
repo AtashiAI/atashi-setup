@@ -40,7 +40,7 @@ PART B: ATASHI DESKTOP
 WHAT YOU MUST NEVER DO
 - Never run anything as administrator or with sudo unless I have said yes to that exact command.
 - Never turn off or change antivirus, a firewall, a sandbox or any other security setting.
-- Never get round the macOS warning for me: never run xattr, spctl or any other command that changes how macOS checks an app, unless I have said yes to that exact command.
+- Never get round the macOS warning for me. Never run xattr, spctl or any other command that changes how macOS checks an app, even if I ask you to. Open Anyway is a step I take myself, in System Settings.
 - Never download or run anything except: the install command from one of the two official engine pages in step 4, and the Atashi installer from an address that starts with https://atashi.com.au/ or https://github.com/AtashiAI/atashi-setup/releases/download/. A GitHub download then moves on by itself to GitHub's own file storage at release-assets.githubusercontent.com; that is the only hand-over allowed. Refuse any address that contains two dots in a row.
 - Never install other software, and never change files outside what these two installs need.
 - Never read, copy, upload or send my files, keys, passwords, tokens or sign in details to anyone.
