@@ -52,7 +52,7 @@ Agent Red leads the room and keeps everyone on the ask. Blue, Green, Pink, Purpl
 
 **Any model.** Bring the Claude, ChatGPT or Gemini subscription you already pay for, or use Atashi's own metered plans. An agent keeps its role and its memory whichever model it runs on.
 
-**Tools.** Connect Slack, ClickUp, Gmail and Google Drive, or your own tool server. Some tools belong to a role: the Robotics team is built around a drone simulator and ROS 2.
+**Tools.** Connect ClickUp, pick a tool server from the catalogue (GitHub, Linear, Stripe and more), or add your own tool server in Atashi Desktop. Slack, Gmail and Google Drive are coming soon. Some tools belong to a role: the Robotics team is built around a drone simulator and ROS 2.
 
 ## See it work
 
@@ -62,8 +62,8 @@ https://github.com/user-attachments/assets/573dd822-4701-4f2b-97f0-1111d71fdae8
 
 ## Get started in five minutes
 
-1. Open https://atashi.com.au and create your account. The first seven days are free.
-2. For work on your own files, download Atashi Desktop for Windows or Linux from https://atashi.com.au/desktop-app.html. Check the SHA256 shown beside the download before you open it.
+1. Open https://atashi.com.au and create your account. The Free plan needs no card, and Pro is free for your first seven days.
+2. For work on your own files, download Atashi Desktop for Windows, macOS (Macs with an Apple chip) or Linux from https://atashi.com.au/desktop-app.html. Check the SHA256 shown beside the download before you open it.
 3. Already use Claude Code? Open [SETUP.md](SETUP.md), copy the prompt and paste it in. It walks you through the install and asks before each step.
 4. Open a room, add the roles you need, and give the team its first job.
 
@@ -73,6 +73,7 @@ The Robotics team, which flies a simulated drone and works with robot software, 
 
 - **Get it from the right place.** The download page is always the source of truth for the current version and its checksum. This page never repeats a checksum, so nothing you read here can go out of date.
 - **Windows will show a warning.** The Windows build is not code signed yet. Only carry on if the file came from the download page or this repository's Releases, and its checksum matches.
+- **So will a Mac.** The Mac app is not notarised by Apple yet. The first time you open it, go to System Settings, then Privacy and Security, and choose Open Anyway, but only if the file came from one of those two places and its checksum matches.
 - **Updates are your call.** Atashi never installs an update by itself. The app tells you when a new version is out, and you come back to the download page.
 - **Work happens on your terms.** It runs only with your consent, in the folder you choose, on the engine you choose. Atashi Desktop blocks its agents from your assistant's own sign in and key files in the usual ways. Read each plan before you press Approve.
 - **No source code here.** This repository holds the setup instructions and the release files.
